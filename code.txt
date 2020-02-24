@@ -1,0 +1,17 @@
+<!doctype html>
+ <html>
+    <head>
+        <title>KSW's World</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>김승원의 세상</h1>
+        <ol>
+            <h2>
+                <li><a href="savepic.html" target="_blank">김승원의 사진 저장소</a></li>
+                <li>여러 웹사이트</li>
+                <li>파일 코드 보기</li>
+            </h2>
+        </ol>
+    </body>
+</html>
